@@ -1,0 +1,8 @@
+=== Akiko base/pointer loads (all 8 address registers) ===
+  none
+
+=== byte-pattern counts (context only) ===
+  B80038         0
+  B8003C         0
+  C0DE0000       1
+  bare 00B800xx  42

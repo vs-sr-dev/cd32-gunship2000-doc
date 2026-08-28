@@ -1,0 +1,44 @@
+# Working directory: extracted, unpacked and rendered game data. Never committed.
+_work/
+__pycache__/
+*.pyc
+
+# The disc image itself and anything ripped from it.
+*.iso
+*.bin
+*.cue
+*.wav
+*.mp3
+*.flac
+*.adf
+*.dms
+*.xl
+*.XL
+
+# Rendered assets and extracted resources. The tools reproduce them;
+# the repository does not carry them.
+*.png
+*.gif
+*.jpg
+*.jpeg
+*.bmp
+*.iff
+*.ilbm
+*.lbm
+*.pix
+*.PIX
+*.LBM
+*.BBM
+*.SBN
+*.SCN
+*.WRL
+*.SHP
+*.SHI
+*.SNR
+*.THR
+*.WPN
+*.cat
+*.run
+*.font
+*.catalog
+*.info

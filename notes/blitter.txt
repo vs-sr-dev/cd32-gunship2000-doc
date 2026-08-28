@@ -1,0 +1,142 @@
+=== _work/iso/gs2.run : 177 blitter writes ===
+   BLTSIZE   x44
+   BLTDMOD   x31
+   BLTAMOD   x22
+   BLTBMOD   x16
+   BLTCON0   x15
+   BLTCMOD   x13
+   BLTCON1   x11
+   BLTAFWM   x9
+   BLTADAT   x6
+   BLTBDAT   x4
+   BLTALWM   x4
+   BLTCDAT   x2
+
+   0x0003ea  BLTCON1   via a6  
+   0x0003ee  BLTCON0   via a6  
+   0x000410  BLTCON0   via a6    #$FFFF  minterm=$FF ASH=15 USEABCD
+   0x00048e  BLTCON1   via a6  
+   0x000492  BLTCON0   via a6  
+   0x000598  BLTAFWM   via a6  
+   0x00a5c2  BLTAMOD   via a5    #$0000
+   0x00a5c8  BLTDMOD   via a5    #$0000
+   0x00a5de  BLTSIZE   via a5    #$C814  h=800 w=20 words
+   0x00a602  BLTSIZE   via a5    #$C814  h=800 w=20 words
+   0x00ac94  BLTDMOD   via a5    #$009C
+   0x00ac9e  BLTSIZE   via a5    #$0542  h=21 w=2 words
+   0x00adda  BLTAMOD   via a5    #$009C
+   0x00ade0  BLTDMOD   via a5    #$009C
+   0x00adee  BLTSIZE   via a5    #$0542  h=21 w=2 words
+   0x00ae26  BLTBMOD   via a5  
+   0x00ae2a  BLTCMOD   via a5  
+   0x00ae2e  BLTDMOD   via a5  
+   0x00ae50  BLTSIZE   via a5    #$0542  h=21 w=2 words
+   0x00ae7c  BLTSIZE   via a5    #$0542  h=21 w=2 words
+   0x00aea8  BLTSIZE   via a5    #$0542  h=21 w=2 words
+   0x00aed4  BLTSIZE   via a5    #$0542  h=21 w=2 words
+   0x00b0d2  BLTAMOD   via a5  
+   0x00b0d6  BLTDMOD   via a5  
+   0x00b0e2  BLTCDAT   via a5  
+   0x00b0e6  BLTSIZE   via a5  
+   0x00b10e  BLTAMOD   via a5  
+   0x00b112  BLTDMOD   via a5  
+   0x00b11e  BLTCDAT   via a5  
+   0x00b122  BLTSIZE   via a5  
+   0x00b94c  BLTAMOD   via a5  
+   0x00b950  BLTBMOD   via a5  
+   0x00b954  BLTCMOD   via a5  
+   0x00b958  BLTDMOD   via a5  
+   0x00b960  BLTSIZE   via a5    #$0502  h=20 w=2 words
+   0x00b9c8  BLTCON1   via a5    #$0000  BSH=0 no fill, area mode
+   0x00b9e0  BLTCON0   via a5    #$09F0  minterm=$F0 ASH=0 USEAD
+   0x00b9e8  BLTAMOD   via a5  
+   0x00b9ec  BLTDMOD   via a5  
+   0x00ba00  BLTSIZE   via a5  
+   0x00ba0a  BLTCON0   via a5    #$0FCA  minterm=$CA ASH=0 USEABCD
+   0x00ba12  BLTAMOD   via a5  
+   0x00ba1a  BLTBMOD   via a5  
+   0x00ba1e  BLTCMOD   via a5  
+   0x00ba22  BLTDMOD   via a5  
+   0x00ba54  BLTSIZE   via a5  
+   0x00ba92  BLTCON1   via a5    #$0000  BSH=0 no fill, area mode
+   0x00baaa  BLTCON0   via a5    #$09F0  minterm=$F0 ASH=0 USEAD
+   0x00bab0  BLTAMOD   via a5    #$0000
+   0x00bab6  BLTDMOD   via a5  
+   0x00bac8  BLTSIZE   via a5  
+   0x00bad2  BLTCON0   via a5    #$0FCA  minterm=$CA ASH=0 USEABCD
+   0x00bad8  BLTAMOD   via a5    #$0000
+   0x00bae8  BLTBMOD   via a5  
+   0x00baee  BLTCMOD   via a5  
+   0x00baf2  BLTDMOD   via a5  
+   0x00bb20  BLTSIZE   via a5  
+   0x00c234  BLTAMOD   via a5    #$0000
+   0x00c23a  BLTBMOD   via a5    #$0078
+   0x00c240  BLTCMOD   via a5    #$0078
+   0x00c246  BLTDMOD   via a5    #$0078
+   0x00c282  BLTSIZE   via a5  
+   0x00c2c8  BLTSIZE   via a5  
+   0x00c5c2  BLTAMOD   via a5  
+   0x00c5c6  BLTDMOD   via a5  
+   0x00c5d2  BLTSIZE   via a5  
+   0x00ddb6  BLTSIZE   via a5  
+   0x00e094  BLTBDAT   via a5  
+   0x00e098  BLTADAT   via a5    #$8000
+   0x00e09e  BLTCMOD   via a5    #$00A0
+   0x00e0a4  BLTDMOD   via a5    #$00A0
+   0x00e0aa  BLTBMOD   via a5  
+   0x00e0b2  BLTAMOD   via a5  
+   0x00e0b6  BLTCON0   via a5  
+   0x00e0ba  BLTCON1   via a5  
+   0x00e0c6  BLTSIZE   via a5  
+   0x00faf2  BLTADAT   via a5    #$FFFF
+   0x00fb58  BLTBMOD   via a5  
+   0x00fb5c  BLTCMOD   via a5  
+   0x00fb60  BLTDMOD   via a5  
+   0x00fb64  BLTSIZE   via a5  
+   0x00fbb2  BLTBMOD   via a5  
+   0x00fbb6  BLTCMOD   via a5  
+   0x00fbba  BLTDMOD   via a5  
+   0x00fbbe  BLTSIZE   via a5  
+   0x00fc60  BLTADAT   via a5  
+   0x00fc68  BLTBMOD   via a5  
+   0x00fc6c  BLTCMOD   via a5  
+   0x00fc70  BLTDMOD   via a5  
+   0x00fc74  BLTSIZE   via a5  
+   0x00fcc0  BLTADAT   via a5  
+   0x00fcc8  BLTBMOD   via a5  
+   0x00fccc  BLTCMOD   via a5  
+   0x00fcd0  BLTDMOD   via a5  
+   0x00fcd4  BLTSIZE   via a5  
+   0x00fd80  BLTBMOD   via a5  
+   0x00fd92  BLTAMOD   via a5  
+   0x00fd96  BLTADAT   via a5    #$8000
+   0x00fd9c  BLTAFWM   via a5    #$FFFF
+   0x00fdac  BLTCON1   via a5  
+   0x00fdb0  BLTCMOD   via a5    #$00A0
+   0x00fdb6  BLTDMOD   via a5    #$00A0
+   0x00fdd8  BLTCON0   via a5  
+   0x00fddc  BLTBDAT   via a5  
+   0x00fde8  BLTSIZE   via a5  
+   0x012c78  BLTAMOD   via a5  
+   0x012c7c  BLTBMOD   via a5  
+   0x012c80  BLTCMOD   via a5  
+   0x012c84  BLTDMOD   via a5  
+   0x012cde  BLTSIZE   via a5  
+   0x012d12  BLTSIZE   via a5  
+   0x012d46  BLTSIZE   via a5  
+   0x012d7a  BLTSIZE   via a5  
+   0x012df6  BLTAMOD   via a5  
+   0x012dfa  BLTBMOD   via a5  
+   0x012dfe  BLTDMOD   via a5  
+   0x012e4c  BLTSIZE   via a5  
+   0x012e7c  BLTSIZE   via a5  
+   0x012eac  BLTSIZE   via a5  
+   0x012edc  BLTSIZE   via a5  
+   0x012ef6  BLTDMOD   via a5  
+   0x012f02  BLTSIZE   via a5  
+   0x012f5c  BLTAMOD   via a5    #$FFFE
+   0x012f62  BLTBMOD   via a5  
+   0x012f66  BLTDMOD   via a5  
+   0x012f72  BLTCON1   via a5    #$0000  BSH=0 no fill, area mode
+   0x012f84  BLTCON0   via a5  
+   0x012f88  B

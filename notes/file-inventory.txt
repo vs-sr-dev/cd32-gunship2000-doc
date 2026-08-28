@@ -1,0 +1,285 @@
+140 files, 59789206 bytes total
+
+file                                   size  first 16 bytes (hex)             ascii                  guess
+INTRO.XL                           26830284  0101000073ae00000000000000010130 ....s..........0       
+piratesgold.intro.xl               21618080  010100005ff6000000000000000100c8 ...._...........       
+cdintro.xl                          3497550  010000004e120000000000000001012c ....N..........,       
+gs2frt.cat                          1407941  0031504f494e5445522e504958000000 .1POINTER.PIX...       
+gs2end.cat                           704004  00144a554d502e504958000000000000 ..JUMP.PIX......       
+cd32rez                              641768  000003f3000000000000000100000000 ................       AmigaHunk executable
+flight.cat                           585453  00214555524f364441542e42494e0000 .!EURO6DAT.BIN..       
+object.cat                           396511  00a54131302e53424e00000000000000 ..A10.SBN.......       
+pirates_german                       383724  000003f3000000000000000f00000000 ................       AmigaHunk executable
+pirates                              383568  000003f3000000000000000f00000000 ................       AmigaHunk executable
+gs                                   218636  000003f3000000000000008300000000 ................       AmigaHunk executable
+gs2.run                              197532  000003f3000000000000000500000000 ................       AmigaHunk executable
+flt_snd.bin                          183528  000005ca1068ecfe1802fefbf510f7f3 .....h..........       
+gs2frt.dat                           177423  0034424153452e53434e000000000000 .4BASE.SCN......       
+fe_snd.bin                            62836  48e7f1fe6100029a4cdf7f8f4e7548e7 H...a...L...NuH.       
+BPATCHES.PIX                          57608  464f524d0000e100494c424d424d4844 FORM....ILBMBMHD       IFF
+WIN.PIX                               55524  464f524d0000d8dc494c424d424d4844 FORM....ILBMBMHD       IFF
+TENT.PIX                              54750  464f524d0000d5d6494c424d424d4844 FORM....ILBMBMHD       IFF
+GS2LOGO.LBM                           52588  464f524d0000cd64494c424d424d4844 FORM...dILBMBMHD       IFF
+PILOT.PIX                             52320  464f524d0000cc58494c424d424d4844 FORM...XILBMBMHD       IFF
+BASE.PIX                              50988  464f524d0000c724494c424d424d4844 FORM...$ILBMBMHD       IFF
+THEATER.PIX                           50006  464f524d0000c34e494c424d424d4844 FORM...NILBMBMHD       IFF
+PATCHES.PIX                           48946  464f524d0000bf2a494c424d424d4844 FORM...*ILBMBMHD       IFF
+HAPPY.PIX                             46804  464f524d0000b6cc494c424d424d4844 FORM....ILBMBMHD       IFF
+HAPPY_2.PIX                           46532  464f524d0000b5bc494c424d424d4844 FORM....ILBMBMHD       IFF
+LOSE.PIX                              46236  464f524d0000b494494c424d424d4844 FORM....ILBMBMHD       IFF
+FIELD.PIX                             46176  464f524d0000b458494c424d424d4844 FORM...XILBMBMHD       IFF
+JUMPCMOH.PIX                          45810  464f524d0000b2ea494c424d424d4844 FORM....ILBMBMHD       IFF
+BASE_AN.PIX                           45314  464f524d0000b0fa494c424d424d4844 FORM....ILBMBMHD       IFF
+JUMP.PIX                              45136  464f524d0000b048494c424d424d4844 FORM...HILBMBMHD       IFF
+FIELD2.PIX                            44108  464f524d0000ac44494c424d424d4844 FORM...DILBMBMHD       IFF
+Backdrop                              43444  000003f3000000000000000300000000 ................       AmigaHunk executable
+COMMISSN.PIX                          41206  464f524d0000a0ee494c424d424d4844 FORM....ILBMBMHD       IFF
+RANKS.PIX                             41190  464f524d0000a0de494c424d424d4844 FORM....ILBMBMHD       IFF
+SAD_2.PIX                             40938  464f524d00009fe2494c424d424d4844 FORM....ILBMBMHD       IFF
+CDACCESS.PIX                          39488  464f524d00009a38494c424d424d4844 FORM...8ILBMBMHD       IFF
+SAD.PIX                               39396  464f524d000099dc494c424d424d4844 FORM....ILBMBMHD       IFF
+REALITY.PIX                           38896  464f524d000097e8494c424d424d4844 FORM....ILBMBMHD       IFF
+SHIP_00.PIX                           38264  464f524d00009570494c424d424d4844 FORM...pILBMBMHD       IFF
+SHIP_01.PIX                           38222  464f524d00009546494c424d424d4844 FORM...FILBMBMHD       IFF
+BASE_AN2.PIX                          37544  464f524d000092a0494c424d424d4844 FORM....ILBMBMHD       IFF
+BASE_AN1.PIX                          36826  464f524d00008fd2494c424d424d4844 FORM....ILBMBMHD       IFF
+COMMANDR.PIX                          35716  464f524d00008b7c494c424d424d4844 FORM...|ILBMBMHD       IFF
+cd2.pix                               35526  464f524d00008abe494c424d424d4844 FORM....ILBMBMHD       IFF
+cd1.pix                               34840  464f524d00008810494c424d424d4844 FORM....ILBMBMHD       IFF
+CDGSXL                                34776  000003f3000000000000000300000000 ................       AmigaHunk executable
+c/cdgsxl                              34776  000003f3000000000000000300000000 ................       AmigaHunk executable
+cd3.pix                               34496  464f524d000086b8494c424d424d4844 FORM....ILBMBMHD       IFF
+KIA.PIX                               34220  464f524d000085a4494c424d424d4844 FORM....ILBMBMHD       IFF
+MEMO_AN.PIX                           33166  464f524d00008186494c424d424d4844 FORM....ILBMBMHD       IFF
+COMMAND2.PIX                          32274  464f524d00007e0a494c424d424d4844 FORM..~.ILBMBMHD       IFF
+SHIP.PIX                              31594  464f524d00007b62494c424d424d4844 FORM..{bILBMBMHD       IFF
+MENU0021.PIX                          31168  464f524d000079b8494c424d424d4844 FORM..y.ILBMBMHD       IFF
+logo.pix                              30406  464f524d000076be50424d20424d4844 FORM..v.PBM BMHD       IFF
+SHIP_05.PIX                           30176  464f524d000075d8494c424d424d4844 FORM..u.ILBMBMHD       IFF
+FIELD_AN.PIX                          29872  464f524d000074a8494c424d424d4844 FORM..t.ILBMBMHD       IFF
+RESC_AN.PIX                           28514  464f524d00006f5a494c424d424d4844 FORM..oZILBMBMHD       IFF
+RESCUE.PIX                            28288  464f524d00006e78494c424d424d4844 FORM..nxILBMBMHD       IFF
+SHIP_03.PIX                           25662  464f524d00006436494c424d424d4844 FORM..d6ILBMBMHD       IFF
+ROSTER.PIX                            25206  464f524d0000626e494c424d424d4844 FORM..bnILBMBMHD       IFF
+SHIP_04.PIX                           25108  464f524d0000620c494c424d424d4844 FORM..b.ILBMBMHD       IFF
+SHIP_06.PIX                           24266  464f524d00005ec2494c424d424d4844 FORM..^.ILBMBMHD       IFF
+REALI_AN.PIX                          24004  464f524d00005dbc494c424d424d4844 FORM..].ILBMBMHD       IFF
+SHIP_02.PIX                           23582  464f524d00005c16494c424d424d4844 FORM..\.ILBMBMHD       IFF
+EURO6MAP.PIX                          23280  464f524d00005ae8494c424d424d4844 FORM..Z.ILBMBMHD       IFF
+EURO8MAP.PIX                          23240  464f524d00005ac0494c424d424d4844 FORM..Z.ILBMBMHD       IFF
+KIA_AN.PIX                            23084  464f524d00005a24494c424d424d4844 FORM..Z$ILBMBMHD       IFF
+EURO7MAP.PIX                          22756  464f524d000058dc494c424d424d4844 FORM..X.ILBMBMHD       IFF
+frame.lbm                             22422  464f524d0000578e494c424d424d4844 FORM..W.ILBMBMHD       IFF
+GULF5MAP.PIX                          21936  464f524d000055a8494c424d424d4844 FORM..U.ILBMBMHD       IFF
+MEDAL.PIX                             21650  464f524d0000548a494c424d424d4844 FORM..T.ILBMBMHD       IFF
+REAL_PCH.PIX                          21340  464f524d00005354494c424d424d4844 FORM..STILBMBMHD       IFF
+GULF3MAP.PIX                          21204  464f524d000052cc494c424d424d4844 FORM..R.ILBMBMHD       IFF
+COMM_AN.PIX                           20880  464f524d00005188494c424d424d4844 FORM..Q.ILBMBMHD       IFF
+PAGE.PIX                              20798  464f524d00005136494c424d424d4844 FORM..Q6ILBMBMHD       IFF
+GULF4MAP.PIX                          20728  464f524d000050f0494c424d424d4844 FORM..P.ILBMBMHD       IFF
+PAGE2.PIX                             19910  464f524d00004dbe494c424d424d4844 FORM..M.ILBMBMHD       IFF
+MENU3037.PIX                          19566  464f524d00004c66494c424d424d4844 FORM..LfILBMBMHD       IFF
+TARMC_00.PIX                          19172  464f524d00004adc494c424d424d4844 FORM..J.ILBMBMHD       IFF
+MEMO.PIX                              18986  464f524d00004a22494c424d424d4844 FORM..J"ILBMBMHD       IFF
+FIELD_A2.PIX                          18818  464f524d0000497a494c424d424d4844 FORM..IzILBMBMHD       IFF
+libs/locale.library                   17548  000003f3000000000000000200000000 ................       AmigaHunk executable
+SHIP_07.PIX                           17390  464f524d000043e6494c424d424d4844 FORM..C.ILBMBMHD       IFF
+HANDS.PIX                             17288  464f524d00004380494c424d424d4844 FORM..C.ILBMBMHD       IFF
+TARMC_02.PIX                          17004  464f524d00004264494c424d424d4844 FORM..BdILBMBMHD       IFF
+TARMC_01.PIX                          16812  464f524d000041a4494c424d424d4844 FORM..A.ILBMBMHD       IFF
+MENU5057.PIX                          15746  464f524d00003d7a494c424d424d4844 FORM..=zILBMBMHD       IFF
+libs/diskfont.library                 15340  000003f3000000000000000200000000 ................       AmigaHunk executable
+HAPPY_AN.PIX                          14226  464f524d0000378a494c424d424d4844 FORM..7.ILBMBMHD       IFF
+RESC_AN1.PIX                          13862  464f524d0000361e494c424d424d4844 FORM..6.ILBMBMHD       IFF
+c/setpatch                            13200  000003f3000000000000000200000000 ................       AmigaHunk executable
+MENU8085.PIX                           9118  464f524d00002396494c424d424d4844 FORM..#.ILBMBMHD       IFF
+SAD_AN.PIX                             8032  464f524d00001f58494c424d424d4844 FORM...XILBMBMHD       IFF
+libs/iffparse.library                  6824  000003f3000000000000000200000000 ................       AmigaHunk executable
+gs2end.dat                             6268  000a434f4d4d4953534e2e53434e0000 ..COMMISSN.SCN..       
+POINTER.PIX                            5914  464f524d00001712494c424d424d4844 FORM....ILBMBMHD       IFF
+Catalogs/English/Ami.catalog           5046  464f524d000013ae43544c4746564552 FORM....CTLGFVER       IFF
+gunship 2000.info                      4442  e3100001000000000015000f008c003c ...............<       
+c/execute                              4432  000003f3000000000000000100000000 ................       AmigaHunk executable
+Flight.dat                             3606  00000000000000000000000000000000 ................       
+gunship 2000                           3532  000003f3000000000000000300000000 ................       AmigaHunk executable
+c/Assign                               3220  000003f3000000000000000100000000 ................       AmigaHunk executable
+fonts/gs2000/11                        3192  000003f3000000000000000100000000 ................       AmigaHunk executable
+colour.lbm                             2788  464f524d00000adc494c424d424d4844 FORM....ILBMBMHD       IFF
+fonts/gs2000/5                         2684  000003f3000000000000000100000000 ................       AmigaHunk executable
+Pirates.font                           2464  000003f3000000000000000100000000 ................       AmigaHunk executable
+fonts/gs2000/6                         1820  000003f3000000000000000100000000 ................       AmigaHunk executable
+fonts/gs2000/2                         1724  000003f3000000000000000100000000 ................       AmigaHunk executable
+fonts/gs2000/4                         1724  000003f3000000000000000100000000 ................       AmigaHunk executable
+roster.dat                             1680  4552415345204d450000000000000000 ERASE ME........       
+fonts/gs2000/1                         1628  000003f3000000000000000100000000 ................       AmigaHunk executable
+fonts/gs2000/3                         1628  000003f3000000000000000100000000 ................       AmigaHunk executable
+c/wait                                  852  000003f3000000000000000100000000 ................       AmigaHunk executable
+Backdrop.info                           835  e310000100000000004c006c00340017 .........L.l.4..       
+c/Status                                828  000003f3000000000000000100000000 ................       AmigaHunk executable
+c/avail                                 728  000003f3000000000000000100000000 ................       AmigaHunk executable
+s/startup-sequence                      613  633a7365747061746368207175696574 c:setpatch quiet       
+c/Break                                 432  000003f3000000000000000100000000 ................       AmigaHunk executable
+CAMPGN51.DAT                            402  05100002000150600007b95c00970000 ......P`...\....       
+pirates.demo                            386  3b633a73657470617463682071756965 ;c:setpatch quie       
+disk.info                               369  e3100001000000000016007600230012 ...........v.#..       
+CAMPGN00.DAT                            302  050c04020004cd440007b00000970000 .......D........       
+CAMPGN02.DAT                            277  050b040200054d440006300000970000 ......MD..0.....       
+fonts/gsfnt1.font                       264  0f0000016773323030302f3100000000 ....gs2000/1....       
+fonts/gsfnt2.font                       264  0f0000016773323030302f3200000000 ....gs2000/2....       
+fonts/gsfnt3.font                       264  0f0000016773323030302f3300000000 ....gs2000/3....       
+fonts/gsfnt4.font                       264  0f0000016773323030302f3400000000 ....gs2000/4....       
+fonts/gsfnt5.font                       264  0f0000016773323030302f3500000000 ....gs2000/5....       
+fonts/gsfnt6.font                       264  0f0000016773323030302f3600000000 ....gs2000/6....       
+fonts/gsfnt9.font                       264  0f0000016773666e74392f3131000000 ....gsfnt9/11...       
+CAMPGN01.DAT                            202  0508040200028d440003f00000970000 .......D........       
+Catalogs/English/User.catalog           166  464f524d0000009e43544c4746564552 FORM....CTLGFVER       IFF
+c/getlang                               104  000003f3000000000000000100000000 ................       AmigaHunk executable
+.info                                    76  f34c00120000160300000529000003da .L.........)....       
+c/filteroff                              48  000003f3000000000000000100000000 ................       AmigaHunk executable
+c/filteron                               48  000003f3000000000000000100000000 ................       AmigaHunk executable
+1                                         1  31                               1                      
+2                                         1  32                               2                      
+3                                         1  33                               3                      
+4                                         1  34                               4                      
+
+=== SHA-1 ===
+f490b3cc59c3970462f9b22ea7ca2912e4fd2beb  .info
+356a192b7913b04c54574d18c28d46e6395428ab  1
+da4b9237bacccdf19c0760cab7aec4a8359010b0  2
+77de68daecd823babbb58edb1c8e14d7106e83bb  3
+1b6453892473a467d07372d45eb05abc2031647a  4
+4e4b2211b314acb8080cce2deaef5e863cd70161  BASE.PIX
+84a959e7f553c6c8e181203bbb875f703edb70cf  BASE_AN.PIX
+e9e9888f74d9e8d517e9adc8e50acf1b0f79fbf7  BASE_AN1.PIX
+52598f7380b4bd4cfc29d6f2b856e78272c6fc70  BASE_AN2.PIX
+0f3c2320715da0d5c5be0c7ebaa650a041242b97  BPATCHES.PIX
+5fa6cd7ee5da28c03f5e804f48f64bf2f0c479b3  Backdrop
+527e447f55e2cd7b7ac46e6ee1355500e7853c0d  Backdrop.info
+e198aff821e910bf7ccff4f1aeb55b611921fecf  CAMPGN00.DAT
+e2ea8bf48cc265136e992685a212598173b33f36  CAMPGN01.DAT
+5eed2b9bb1c17adc1103f97d0b9440d1fc115921  CAMPGN02.DAT
+3133a2eb5384e256120d23cb208a9595515b1e7f  CAMPGN51.DAT
+6eafe73087a05381d51d60fdee989e45a1d6fdb7  CDACCESS.PIX
+17a28c16e8bcc82390183d476e64e50b126633dc  CDGSXL
+1ba3836dd69448a6a3d97c7d30bb1638e8e3518b  COMMAND2.PIX
+9ff16cdd36b2bd51d8f92e917738fa59746f0fd5  COMMANDR.PIX
+34654c66e07807d15630059161afe4ddd73e6b8d  COMMISSN.PIX
+0288b51a9508cf4893e10c767f5651fccbe4a08b  COMM_AN.PIX
+126ab4b7cbf1a51cd24522479375fedae1619587  Catalogs/English/Ami.catalog
+8b3f91beb5f0e9fe4082d3ae9de3121dfd39dcc1  Catalogs/English/User.catalog
+63c9fd180bdc477f6b194575febf25a94eaa5b11  EURO6MAP.PIX
+b27e571bf48e8abf5de1e9a63f184f2c214543cd  EURO7MAP.PIX
+00d6d0f3466c6bb4317e4f461fcd288a66620083  EURO8MAP.PIX
+51e71c9b6e43406ce32807fd62c1cd0386b1cc14  FIELD.PIX
+7733e87e848d73177ec461bdd604a79232c9a1c8  FIELD2.PIX
+0ca782b3b36ba9e3f63684de24e35a4054fa72a1  FIELD_A2.PIX
+dc73eeb8c96a30bdb6496ad012cfa403aebfcb35  FIELD_AN.PIX
+fb59e58e9a86d797cda3ff9e770027e6ad977ca2  Flight.dat
+eb2a4d49f07410badf00357cd8949d8d221519f9  GS2LOGO.LBM
+58d6b7ea6dd8447ee0ce016dc6997163842c5a67  GULF3MAP.PIX
+3681d784ac322524cb470da35a1b906495c1b458  GULF4MAP.PIX
+52b0a727ed4cff896673a1bc80c0b3ce6b77b18c  GULF5MAP.PIX
+39445dc5ed9e72455040f477476e46b151e05d45  HANDS.PIX
+786ecc8906238c0dc0495505ec9d12788e236501  HAPPY.PIX
+45221c3352fa208ada5d294c52d3221efd0d651c  HAPPY_2.PIX
+6c494f6de18e96ee63f99a5d72dd6a6d3d03e888  HAPPY_AN.PIX
+4094193500cf30dc22eb049c2d8ebe28cc3f6ba5  INTRO.XL
+6cb7f5ba3ac1e8de2203639297e91bef7a425389  JUMP.PIX
+b84cf71ade1c104575f4c393e30876dd9df13c93  JUMPCMOH.PIX
+7039403849af52b515245bc80ac21a1310cf459c  KIA.PIX
+7fc5b2533c33545fd4740da5cb4c799042e15a35  KIA_AN.PIX
+58e4d3d777034eb3a4572514bd3669c3741020a8  LOSE.PIX
+f025d8dafba6ecde674f39928ab066888f541782  MEDAL.PIX
+e80a8787fb82948bd96eda57a712466f2d8d5162  MEMO.PIX
+09e43031ee5119208db1c0503f847313eb5db90c  MEMO_AN.PIX
+22a8a6325d7665f236e4f90a5b576d0c77f0e45e  MENU0021.PIX
+585ac2e87bb6bc5457ba3621a99d6edf8ee0a3bd  MENU3037.PIX
+1cc3fbce34d557848fbb8d9eee2e5c774f48c567  MENU5057.PIX
+18b17d281c3d95fcefe3dde6b4a9679de0825599  MENU8085.PIX
+2ad3d888ea1ccaf3d68503a1d3576639de0ac653  PAGE.PIX
+6fd342db080cef6554a658da8fe9703939edb79c  PAGE2.PIX
+29e2e3177bff0770d4988fe54647e50ff692fda3  PATCHES.PIX
+dae452c135d0b6cd8419da1e46cf63c12d67e83a  PILOT.PIX
+6c1badab422749633918988f247884d1faddf2c3  POINTER.PIX
+535660a2d1454b945f6d4866fc09c1af4aeb3461  Pirates.font
+ffe49ff9466c731673b95eaf5511dc390c70e094  RANKS.PIX
+325f1b4aa76832b62733911893ab6d3531a797ad  REALITY.PIX
+75fcc3714d7735bf0086e1bb75204e557eb3b12e  REALI_AN.PIX
+196163a2a29d25816a95276bda631b11c1fcfa7c  REAL_PCH.PIX
+486f605878c8ffd5850a97ea47181e9038ad63fd  RESCUE.PIX
+adc82714eb43ec2283e37d74f8cfc6b6871993c6  RESC_AN.PIX
+3de6eeaf8fc41decdd4cbeccfa4155ce0ef0eb59  RESC_AN1.PIX
+23e2933b572686ad7a062f00236f11cc0cd3ed3d  ROSTER.PIX
+5301b24043855979de28181fb75d7b29e906dc8d  SAD.PIX
+900b46337736e0963602e2af164128c31df080e5  SAD_2.PIX
+6ced3d5203162c2e2028fb4a932b52db240d9fc9  SAD_AN.PIX
+1e8dfa600792d073c76b105e06c4aa70cf77ba56  SHIP.PIX
+a1d8f46773cb5a7892fef842091f76246618ef9b  SHIP_00.PIX
+205d507189b87ebdda893a51f405ba3bffc5337f  SHIP_01.PIX
+dccb9855421182bfcffffbfcc76193ddc4b8bc23  SHIP_02.PIX
+436e8f793643de8e10535fb7851e7cb203dbce7e  SHIP_03.PIX
+071e800d1b6795f628c11f600d26dba9643f8604  SHIP_04.PIX
+a4b51041cbdc99e0b585e0bda6203105fe6dd006  SHIP_05.PIX
+f939ba4ab941ab41b3dc6fedf87c7b97d626c680  SHIP_06.PIX
+981e2511a7c7aa5fe04b186b12b5aa1ee0ff7eeb  SHIP_07.PIX
+a77d5e34f31e107cc7ae7ae71d4c0a05fe85bf7b  TARMC_00.PIX
+7e3a542a2b4f2a8fa6de72f58d4d172a2963e98a  TARMC_01.PIX
+af00e02b055a8114fd29be78d91685c6ed59aca1  TARMC_02.PIX
+b6feca8d6d6b6308bb7868e936f4155b10d67d78  TENT.PIX
+d80280bb4a14d1293e53f78cceb49b86e64997f6  THEATER.PIX
+4cb32f613061d38e17a9e6755de67f6049fd6ef6  WIN.PIX
+b5b7edb67f578019d46af425a16458ec0cdb1c2e  c/Assign
+97ca2404e17fc78e3d988131bb17183c5c3aa15a  c/Break
+71e09cfc79d8ede0721ba4a01e1cd43a6318a99f  c/Status
+5e62c202fe3cb447a19c39efb43c935eed139a66  c/avail
+17a28c16e8bcc82390183d476e64e50b126633dc  c/cdgsxl
+ef1e6f6db0f3a513e0dc98add537e1db87b1856a  c/execute
+364a06e9776784ef1dcb00f3d478257d440ae766  c/filteroff
+d6cdc9a2a38bbcec049c79e53196663936adeea3  c/filteron
+101a14c6dbde69010320a69a1d84d07d91055273  c/getlang
+00d74a35300f7009ed02bc47db88427e9e0fc0a5  c/setpatch
+a0d503a136dad028ec51e33cfd57d130c1b4b807  c/wait
+269a0e6eadc68e3134a6b7cc7ce70887db6ec005  cd1.pix
+2df283bbdff77181c9d4138382c5876ab73d2766  cd2.pix
+87c3e7bded951ad553e4aae00d3ad696d8692f9d  cd3.pix
+32476d0ad0ca37e25d71f794d71c3a5b11746d4b  cd32rez
+1fdbb7f34df3b13e2f73c3c30ba99766337d74b6  cdintro.xl
+bab7f3002e89d6ce998218e103d44bf1193e0d14  colour.lbm
+52ad045c928f7280010113390d10669bb030615a  disk.info
+d29ba0eb0cbe8f4499a1bbf1afcc149353cbba06  fe_snd.bin
+2c1441322187195e0db2f1d54d47a497ad890f6e  flight.cat
+817fad848218c4eeab59f14ac48a5516ec47675c  flt_snd.bin
+bf6d4c8809799f3d964057342a6dc96d70a79bf7  fonts/gs2000/1
+be925d2d0a61962ff1de9deb742747a356fc2b87  fonts/gs2000/11
+ff787a79525bbc1152f07e3ebfc8152356b1c898  fonts/gs2000/2
+69ec5295b6d380a74d0d8a6955c5db1ad5e52adb  fonts/gs2000/3
+8252641de55972ab44a8abf368d82af182e15cc6  fonts/gs2000/4
+5230718ab9984ae53eb7e2f2a79012e976ebdec8  fonts/gs2000/5
+4b43be4590f055fde802274f739a27da651c7ad9  fonts/gs2000/6
+819ebe9dffb343055d07c4fb8979dfab617d3f51  fonts/gsfnt1.font
+70f1abcdf211ac67a0956ca3ccdd7843e30f0c2e  fonts/gsfnt2.font
+8dafb33908e770efe0860e272a8bdb8d97c39ea4  fonts/gsfnt3.font
+d894b3f1244dcbe5d7feb96a4b4b2187adc21831  fonts/gsfnt4.font
+018259707dc21741940dd5be6c13765034583c18  fonts/gsfnt5.font
+18d5ca04d46a126ae34ef841480fbde9d2f979a3  fonts/gsfnt6.font
+89e5c49c305ae179a27f0bbbcb3a3514e9e0e891  fonts/gsfnt9.font
+b243a477590bce85952911dbe21d15ee7a6bc062  frame.lbm
+d2623c11f56b8777efbb07ea24f9db0942d610b3  gs
+9af110eacfbadb1442add1044f13cadf9c3c6d4e  gs2.run
+7a558845ead272dc43a66e35d8d114229945ce4e  gs2end.cat
+5124ce983e46fa68231aac0e48f73aa4c50163d4  gs2end.dat
+2fa122b4a84be140449b5310180e1343f000b5d2  gs2frt.cat
+bfaa18c7969039d756e06c587a326da549e8b5ad  gs2frt.dat
+1fb413a345b07b03011cd3ed45aaa51c0a0d0c77  gunship 2000
+02fe9e69151d8e7f33ba022a879ad6792f651ad8  gunship 2000.info
+15d9765f1b66c4a3068d11186ea5bf41a8c8ad3b  libs/diskfont.library
+e453484e17e5dc538225a845c7fd69fa96b84e30  libs/iffparse.library
+a12b91f662a1c527ff6411b43555bc7eaeb370b4  libs/locale.library
+aabca9b8849fb95878d3adbffd252173af1bde1c  logo.pix
+20f304369fffb27a5d29ba1716aaa5c2232d85a6  object.cat
+d298f1bf39eefcfd0566798534d74fba6eb5b07b  pirates
+54b2386c828f1f0625deefe60c39b55ef0272d8e  pirates.demo
+4d5485a18f089449f3e3c4b292b564fb7a03dc90  pirates_german
+db4d02d2b2d5af4fd5ceea7c2a885b410f7217e4  piratesgold.intro.xl
+7bcbd0b83544cfd411ffdd1170c1e5acde3dab77  roster.dat
+cf6aa303753458ee6875aa77134f00dcea323532  s/startup-sequence

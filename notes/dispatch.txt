@@ -1,0 +1,8 @@
+lea@     jump@    kind An  Dn  table@   opcodes
+
+=== every run of >=6 consecutive bra.w, found without reference to
+    the code that jumps into it ===
+  table 00001122   10 entries   10 distinct handlers
+
+dispatch tables: 0
+opcodes total  : 0

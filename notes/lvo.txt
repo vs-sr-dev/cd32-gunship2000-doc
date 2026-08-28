@@ -1,0 +1,80 @@
+=== _work/iso/gs2.run : 64 jsr d16(a6) sites, 19 distinct displacements ===
+      -6 (0xFFFA) x6    -
+     -12 (0xFFF4) x6    -
+     -30 (0xFFE2) x2    dos/Open
+     -90 (0xFFA6) x1    -
+    -120 (0xFF88) x9    exec/Disable
+    -126 (0xFF82) x9    exec/Enable
+    -168 (0xFF58) x2    -
+    -174 (0xFF52) x2    -
+    -222 (0xFF22) x2    graphics/LoadView
+    -228 (0xFF1C) x1    graphics/WaitBlit
+    -270 (0xFEF2) x8    graphics/WaitTOF
+    -294 (0xFEDA) x1    exec/AllocSignal
+    -384 (0xFE80) x1    -
+    -408 (0xFE68) x3    exec/OldOpenLibrary
+    -414 (0xFE62) x4    exec/CloseLibrary
+    -456 (0xFE38) x1    exec/DoIO | graphics/OwnBlitter
+    -462 (0xFE32) x1    exec/SendIO | graphics/DisownBlitter
+    -498 (0xFE0E) x4    -
+    -552 (0xFDD8) x1    exec/OpenLibrary
+
+=== _work/iso/gs : 196 jsr d16(a6) sites, 57 distinct displacements ===
+     -30 (0xFFE2) x14   dos/Open
+     -36 (0xFFDC) x9    dos/Close
+     -42 (0xFFD6) x8    dos/Read
+     -48 (0xFFD0) x3    dos/Write
+     -60 (0xFFC4) x1    -
+     -66 (0xFFBE) x5    -
+     -72 (0xFFB8) x3    -
+     -78 (0xFFB2) x1    -
+     -84 (0xFFAC) x8    -
+     -90 (0xFFA6) x8    -
+    -102 (0xFF9A) x2    -
+    -108 (0xFF94) x1    -
+    -132 (0xFF7C) x11   exec/Forbid
+    -168 (0xFF58) x2    -
+    -174 (0xFF52) x2    -
+    -192 (0xFF40) x4    graphics/LoadRGB4
+    -198 (0xFF3A) x6    exec/AllocMem
+    -204 (0xFF34) x1    -
+    -210 (0xFF2E) x6    exec/FreeMem
+    -216 (0xFF28) x1    -
+    -234 (0xFF16) x1    -
+    -240 (0xFF10) x3    -
+    -246 (0xFF0A) x1    -
+    -270 (0xFEF2) x5    graphics/WaitTOF
+    -288 (0xFEE0) x3    -
+    -294 (0xFEDA) x4    exec/AllocSignal
+    -300 (0xFED4) x3    -
+    -306 (0xFECE) x3    -
+    -324 (0xFEBC) x1    -
+    -330 (0xFEB6) x2    -
+    -336 (0xFEB0) x3    -
+    -342 (0xFEAA) x5    -
+    -348 (0xFEA4) x2    -
+    -354 (0xFE9E) x3    -
+    -360 (0xFE98) x1    -
+    -372 (0xFE8C) x4    -
+    -378 (0xFE86) x3    -
+    -390 (0xFE7A) x2    -
+    -408 (0xFE68) x2    exec/OldOpenLibrary
+    -414 (0xFE62) x9    exec/CloseLibrary
+    -420 (0xFE5C) x2    -
+    -426 (0xFE56) x1    -
+    -444 (0xFE44) x3    exec/OpenDevice
+    -450 (0xFE3E) x3    exec/CloseDevice
+    -456 (0xFE38) x4    exec/DoIO | graphics/OwnBlitter
+    -462 (0xFE32) x5    exec/SendIO | graphics/DisownBlitter
+    -468 (0xFE2C) x1    -
+    -474 (0xFE26) x1    exec/WaitIO
+    -480 (0xFE20) x1    exec/AbortIO
+    -552 (0xFDD8) x8    exec/OpenLibrary
+    -582 (0xFDBA) x1    -
+    -588 (0xFDB4) x5    -
+    -612 (0xFD9C) x1    -
+    -624 (0xFD90) x1    -
+    -666 (0xFD66) x1    -
+    -672 (0xFD60) x1    -
+    -882 (0xFC8E) x1    graphics/LoadRGB32
+

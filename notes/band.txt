@@ -1,0 +1,35 @@
+category  files      on disc     resident         used  
+game        118      6939994      8363560      8363199
+os           15       133156       133156       133156
+video         3     51945914     51945914     51945796
+pirates       4       770142      1167966      1167966
+TOTAL       140     59789206     61610596     61610117
+
+GAME ONLY (excludes streamed video, the bundled Pirates! Gold demo,
+           and the stock Commodore/OS binaries):
+   on disc     6939994 bytes = 6.62 MiB
+   resident    8363560 bytes = 7.98 MiB
+   used        8363199 bytes = 7.98 MiB
+   slack           361 bytes = 0.00% of resident
+
+GAME + OS binaries:
+   on disc     7073150 bytes = 6.75 MiB
+   resident    8496716 bytes = 8.10 MiB
+
+per-file slack, worst 15 (resident vs used):
+ slack bytes     pct     resident  file
+         245   14.6%         1680  roster.dat
+         118    0.0%     21618080  piratesgold.intro.xl
+           4    0.1%         5046  Catalogs/English/Ami.catalog
+           2    0.0%         5914  POINTER.PIX
+           2    0.0%         9118  MENU8085.PIX
+           2    0.0%        13862  RESC_AN1.PIX
+           2    0.0%        15746  MENU5057.PIX
+           2    0.0%        17004  TARMC_02.PIX
+           2    0.0%        17390  SHIP_07.PIX
+           2    0.0%        18818  FIELD_A2.PIX
+           2    0.0%        19172  TARMC_00.PIX
+           2    0.0%        19910  PAGE2.PIX
+           2    0.0%        20728  GULF4MAP.PIX
+           2    0.0%        20798  PAGE.PIX
+           2    0.0%        21340  REAL_PCH.PIX

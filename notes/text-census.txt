@@ -1,0 +1,56 @@
+scanned          59789206 bytes
+prose runs       2925
+prose bytes      104838  (0.18% of the bytes scanned)
+min run length   12, must contain a space and a lowercase letter
+
+     bytes   runs  file
+     25869    631  pirates
+     24084    730  pirates_german
+     14984    245  object.cat
+     14599    241  gs
+     10946    561  gs2frt.dat
+      3900    107  Catalogs/English/Ami.catalog
+      1957     59  gs2.run
+      1470     61  c/cdgsxl
+      1470     61  CDGSXL
+      1140     58  INTRO.XL
+      1016     42  c/setpatch
+       554     20  gunship 2000
+       536     13  s/startup-sequence
+       375     17  Backdrop
+       307      5  pirates.demo
+       263     12  c/execute
+       223     10  c/Assign
+       184      6  c/avail
+       140      7  roster.dat
+       132      6  c/Status
+       112      4  fe_snd.bin
+        97      5  libs/locale.library
+        72      1  frame.lbm
+        63      4  cdintro.xl
+        59      3  c/wait
+        52      2  c/Break
+        51      2  Catalogs/English/User.catalog
+        50      3  .info
+        24      2  gs2frt.cat
+        24      1  libs/iffparse.library
+        23      1  libs/diskfont.library
+        13      1  gs2end.cat
+        13      1  RESC_AN1.PIX
+        12      1  piratesgold.intro.xl
+        12      1  SHIP_01.PIX
+        12      1  SHIP_00.PIX
+
+bytes >= 0x80 in the scanned set: 128 distinct values, 25431987 occurrences
+   0xFF x6343585
+   0xFE x761662
+   0x80 x692405
+   0xAA x645124
+   0xFD x518037
+   0xFC x454428
+   0xBF x451490
+   0xFB x418542
+   0xDF x403073
+   0xF7 x387633
+   0xEF x379244
+   0xC0 x364352

@@ -1,0 +1,60 @@
+=== gs2frt.dat : 177423 bytes ===
+entries 52, table 2..1250, first payload offset 1250 (table end matches)
+
+#    name                length    offset ext       sha1
+0    BASE.SCN              3031      1250 SCN       07410dee4d74a14f
+1    BRIEFING.SCN           280      4281 SCN       114f204394e528da
+2    BUILD.SCN              313      4561 SCN       25394eeb2fd81262
+3    FIELD.SCN              260      4874 SCN       e35324b67dc48883
+4    FIELD2.SCN             216      5134 SCN       e2deac8d0db61be4
+5    MEMO.SCN                80      5350 SCN       1437d9b08fe093a2
+6    ORDNANCE.SCN           257      5430 SCN       397360774feac6d8
+7    OUTFIT.SCN             233      5687 SCN       2c4744baf27530fc
+8    REALITY.SCN           1774      5920 SCN       5631bc5bc5ac67fb
+9    REPLAY.SCN             506      7694 SCN       b4e859b68a1422b0
+10   ROSTER.SCN             493      8200 SCN       60240b41e3014918
+11   THEATER.SCN             80      8693 SCN       6fc64a60657ca34f
+12   CD1.SCN                185      8773 SCN       2acc76ae9d280c84
+13   CD2.SCN                185      8958 SCN       adfcf9f14cb9091e
+14   CD3.SCN                185      9143 SCN       ce41c593f65828df
+15   SHIN_00.SHI            273      9328 SHI       b2e9bd3bf8d65c7a
+16   SHIN_01.SHI            273      9601 SHI       9c0befea12fa059d
+17   SHIN_02.SHI            273      9874 SHI       04c1ceee49b645b3
+18   SHIN_03.SHI            273     10147 SHI       1451a6b05289c9e7
+19   SHIN_04.SHI            273     10420 SHI       08c6a64ff22437f1
+20   SHIN_05.SHI            273     10693 SHI       10cfa5a2f35fb1be
+21   SHIN_06.SHI            273     10966 SHI       2e617d02dce14c9a
+22   SHIN_07.SHI            273     11239 SHI       bc81c4442ec2cf97
+23   SHIP_00.SHP           3725     11512 SHP       f787a12bec9df290
+24   SHIP_01.SHP           3703     15237 SHP       15cd5a8d1173b8d6
+25   SHIP_02.SHP           1745     18940 SHP       cea990da8bf9b12e
+26   SHIP_03.SHP           1145     20685 SHP       4eb2035f7d8103eb
+27   SHIP_04.SHP           1313     21830 SHP       81b32b48d696dbd6
+28   SHIP_05.SHP           2145     23143 SHP       62898fc5adc07494
+29   SHIP_06.SHP           1551     25288 SHP       5ca33022afbcd59f
+30   SHIP_07.SHP            613     26839 SHP       e9bbc7884b883ce7
+31   SCENE_00.THR            77     27452 THR       da12fc83c9ecfd0d
+32   SCENE_01.THR            77     27529 THR       ec18174e2bb0f035
+33   WEAP_00.WPN           4941     27606 WPN       fc2dc34b01d15299
+34   CENT_00.SNR             32     32547 SNR       f83c2d2011a6fb78
+35   CENT_01.SNR             32     32579 SNR       08921df23e0a0232
+36   CENT_02.SNR             32     32611 SNR       999acc176cbddf00
+37   CENT_03.SNR             32     32643 SNR       80a18d854f8427c7
+38   PERS_00.SNR             32     32675 SNR       ccde054cfe44c1b2
+39   PERS_01.SNR             32     32707 SNR       ffd148f276088504
+40   PERS_02.SNR             32     32739 SNR       869a7c45faff600d
+41   PERS_03.SNR             32     32771 SNR       ad4b8a24810c591c
+42   PERS_04.SNR             32     32803 SNR       80b64a831424e6ce
+43   EURO6.WRL            16132     32835 WRL       77ffd37e09ba6179
+44   EURO7.WRL            16062     48967 WRL       0da7fddfad83fb56
+45   EURO8.WRL            15932     65029 WRL       9292c4ec1b544e87
+46   EUROX.WRL            12662     80961 WRL       3bd588c05af63dde
+47   GULF3.WRL            17736     93623 WRL       2d0f918f6ca95e27
+48   GULF4.WRL            18096    111359 WRL       809cd6dd15263c5a
+49   GULF5.WRL            17536    129455 WRL       0d8c4c696dd2f4c4
+50   GULF6.WRL            17096    146991 WRL       2d75d98e24f98585
+51   GULFX.WRL            13336    164087 WRL       2fb9cbcf2f6faae4
+
+payload 176173 bytes, entries cover 176173 (100.0%), table 1250, trailing 0
+gaps between entries: 0 (0 bytes)
+extensions: SCN x15, SNR x9, WRL x9, SHI x8, SHP x8, THR x2, WPN x1

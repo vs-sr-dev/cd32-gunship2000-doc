@@ -1,0 +1,36 @@
+=== cdintro.xl : 3497550 bytes ===
+  type 1  info 0  chunkSize 19986  currentChunk 0  previousChunk 1
+  300x100, 5 planes, palette 64 bytes (32 colours), audio 890 bytes/frame
+  bytes/row 38, video payload 19000, planes*h*rowbytes = 19000  -> EXACT
+  reserved tail zero
+  file / chunkSize = 175.0000  -> 175 whole frames
+  at xlspeed 150 (sectors/s): 15.37 frames/s, 11.4 s of video, audio 13680 Hz
+    chunk at         0 size 19986 currentChunk 0 previousChunk 1
+    chunk at     19986 size 19986 currentChunk 19986 previousChunk 2
+    chunk at     39972 size 19986 currentChunk 19986 previousChunk 3
+  walked 175 chunks, all chunkSize 19986: True, ends at 3497550 of 3497550
+
+=== INTRO.XL : 26830284 bytes ===
+  type 1  info 1  chunkSize 29614  currentChunk 0  previousChunk 1
+  304x125, 6 planes, palette 32 bytes (16 colours), audio 1050 bytes/frame
+  bytes/row 38, video payload 28500, planes*h*rowbytes = 28500  -> EXACT
+  reserved tail zero
+  file / chunkSize = 906.0000  -> 906 whole frames
+  at xlspeed 150 (sectors/s): 10.37 frames/s, 87.3 s of video, audio 10892 Hz
+    chunk at         0 size 29614 currentChunk 0 previousChunk 1
+    chunk at     29614 size 29614 currentChunk 29614 previousChunk 2
+    chunk at     59228 size 29614 currentChunk 29614 previousChunk 3
+  walked 906 chunks, all chunkSize 29614: True, ends at 26830284 of 26830284
+
+=== piratesgold.intro.xl : 21618080 bytes ===
+  type 1  info 1  chunkSize 24566  currentChunk 0  previousChunk 1
+  200x152, 6 planes, palette 32 bytes (16 colours), audio 790 bytes/frame
+  bytes/row 26, video payload 23712, planes*h*rowbytes = 23712  -> EXACT
+  reserved tail zero
+  file / chunkSize = 880.0000  -> 880 whole frames
+  at xlspeed 150 (sectors/s): 12.51 frames/s, 70.4 s of video, audio 9879 Hz
+    chunk at         0 size 24566 currentChunk 0 previousChunk 1
+    chunk at     24566 size 24566 currentChunk 24566 previousChunk 2
+    chunk at     49132 size 24566 currentChunk 24566 previousChunk 3
+  walked 880 chunks, all chunkSize 24566: True, ends at 21618080 of 21618080
+

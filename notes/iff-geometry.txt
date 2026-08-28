@@ -1,0 +1,422 @@
+file               size   wxh      bp compress  colours     body  CAMG
+Ami.catalog        5046       0x0  0 ?-1            0        0  -
+BASE.PIX          50988   320x200  8 ByteRun1     256    49906  $00011000 plain
+BASE_AN.PIX       45314   320x200  8 ByteRun1     256    44232  $00011000 plain
+BASE_AN1.PIX      36826   320x200  8 ByteRun1     256    35743  $00011000 plain
+BASE_AN2.PIX      37544   320x200  8 ByteRun1     256    36461  $00011000 plain
+BPATCHES.PIX      57608   320x200  8 ByteRun1     256    56526  $00011000 plain
+CDACCESS.PIX      39488   320x200  8 ByteRun1     256    38405  $00011000 plain
+COMMAND2.PIX      32274   320x200  8 ByteRun1     256    31191  $00011000 plain
+COMMANDR.PIX      35716   320x200  8 ByteRun1     256    34634  $00011000 plain
+COMMISSN.PIX      41206   320x200  8 ByteRun1     256    40123  $00011000 plain
+COMM_AN.PIX       20880   320x200  8 ByteRun1     256    19798  $00011000 plain
+EURO6MAP.PIX      23280   320x200  8 ByteRun1     256    22197  $00011000 plain
+EURO7MAP.PIX      22756   320x200  8 ByteRun1     256    21674  $00011000 plain
+EURO8MAP.PIX      23240   320x200  8 ByteRun1     256    22157  $00011000 plain
+FIELD.PIX         46176   320x200  8 ByteRun1     256    45093  $00011000 plain
+FIELD2.PIX        44108   320x200  8 ByteRun1     256    43026  $00011000 plain
+FIELD_A2.PIX      18818   320x200  8 ByteRun1     256    17735  $00011000 plain
+FIELD_AN.PIX      29872   320x200  8 ByteRun1     256    28790  $00011000 plain
+GS2LOGO.LBM       52588   320x200  8 ByteRun1     256    51506  $00091000 plain
+GULF3MAP.PIX      21204   320x200  8 ByteRun1     256    20122  $00011000 plain
+GULF4MAP.PIX      20728   320x200  8 ByteRun1     256    19645  $00011000 plain
+GULF5MAP.PIX      21936   320x200  8 ByteRun1     256    20854  $00011000 plain
+HANDS.PIX         17288   320x200  8 ByteRun1     256    16206  $00011000 plain
+HAPPY.PIX         46804   320x200  8 ByteRun1     256    45722  $00011000 plain
+HAPPY_2.PIX       46532   320x200  8 ByteRun1     256    45450  $00011000 plain
+HAPPY_AN.PIX      14226   320x200  8 ByteRun1     256    13144  $00011000 plain
+JUMP.PIX          45136   320x200  8 ByteRun1     256    44053  $00011000 plain
+JUMPCMOH.PIX      45810   320x200  8 ByteRun1     256    44728  $00011000 plain
+KIA.PIX           34220   320x200  8 ByteRun1     256    33138  $00011000 plain
+KIA_AN.PIX        23084   320x200  8 ByteRun1     256    22002  $00011000 plain
+LOSE.PIX          46236   320x200  8 ByteRun1     256    45154  $00011000 plain
+MEDAL.PIX         21650   320x200  8 ByteRun1     256    20567  $00011000 plain
+MEMO.PIX          18986   320x200  8 ByteRun1     256    17904  $00011000 plain
+MEMO_AN.PIX       33166   320x200  8 ByteRun1     256    32084  $00011000 plain
+MENU0021.PIX      31168   320x200  8 ByteRun1     256    30085  $00011000 plain
+MENU3037.PIX      19566   320x200  8 ByteRun1     256    18484  $00011000 plain
+MENU5057.PIX      15746   320x200  8 ByteRun1     256    14663  $00011000 plain
+MENU8085.PIX       9118   320x200  8 ByteRun1     256     8035  $00011000 plain
+PAGE.PIX          20798   320x200  8 ByteRun1     256    19715  $00011000 plain
+PAGE2.PIX         19910   320x200  8 ByteRun1     256    18827  $00011000 plain
+PATCHES.PIX       48946   320x200  8 ByteRun1     256    47863  $00011000 plain
+PILOT.PIX         52320   320x200  8 ByteRun1     256    51237  $00011000 plain
+POINTER.PIX        5914   320x200  8 ByteRun1     256     4831  $00011000 plain
+RANKS.PIX         41190   320x200  8 ByteRun1     256    40108  $00011000 plain
+REALITY.PIX       38896   320x200  8 ByteRun1     256    37813  $00011000 plain
+REALI_AN.PIX      24004   320x200  8 ByteRun1     256    22922  $00011000 plain
+REAL_PCH.PIX      21340   320x200  8 ByteRun1     256    20257  $00011000 plain
+RESCUE.PIX        28288   320x200  8 ByteRun1     256    27205  $00011000 plain
+RESC_AN.PIX       28514   320x200  8 ByteRun1     256    27432  $00011000 plain
+RESC_AN1.PIX      13862   320x200  8 ByteRun1     256    12907  $00011000 plain
+ROSTER.PIX        25206   320x200  8 ByteRun1     256    24124  $00011000 plain
+SAD.PIX           39396   320x200  8 ByteRun1     256    38314  $00011000 plain
+SAD_2.PIX         40938   320x200  8 ByteRun1     256    39855  $00011000 plain
+SAD_AN.PIX         8032   320x200  8 ByteRun1     256     6950  $00011000 plain
+SHIP.PIX          31594   320x200  8 ByteRun1     256    30511  $00011000 plain
+SHIP_00.PIX       38264   320x200  8 ByteRun1     256    37309  $00011000 plain
+SHIP_01.PIX       38222   320x200  8 ByteRun1     256    37268  $00011000 plain
+SHIP_02.PIX       23582   320x200  8 ByteRun1     256    22500  $00011000 plain
+SHIP_03.PIX       25662   320x200  8 ByteRun1     256    24580  $00011000 plain
+SHIP_04.PIX       25108   320x200  8 ByteRun1     256    24026  $00011000 plain
+SHIP_05.PIX       30176   320x200  8 ByteRun1     256    29093  $00011000 plain
+SHIP_06.PIX       24266   320x200  8 ByteRun1     256    23183  $00011000 plain
+SHIP_07.PIX       17390   320x200  8 ByteRun1     256    16307  $00011000 plain
+TARMC_00.PIX      19172   320x200  8 ByteRun1     256    18089  $00011000 plain
+TARMC_01.PIX      16812   320x200  8 ByteRun1     256    15730  $00011000 plain
+TARMC_02.PIX      17004   320x200  8 ByteRun1     256    15921  $00011000 plain
+TENT.PIX          54750   320x200  8 ByteRun1     256    53668  $00011000 plain
+THEATER.PIX       50006   320x200  8 ByteRun1     256    48924  $00011000 plain
+User.catalog        166       0x0  0 ?-1            0        0  -
+WIN.PIX           55524   320x200  8 ByteRun1     256    54442  $00011000 plain
+cd1.pix           34840   320x200  8 ByteRun1     256    33758  $00011000 plain
+cd2.pix           35526   320x200  8 ByteRun1     256    34443  $00011000 plain
+cd3.pix           34496   320x200  8 ByteRun1     256    33414  $00011000 plain
+colour.lbm         2788   320x256  5 ByteRun1      32     2560  $00004000 plain
+frame.lbm         22422   320x200  6 ByteRun1      16    22214  $00000800 HAM
+logo.pix          30406   320x200  8 ByteRun1     256    26171  -
+
+76 IFF files.  distinct (geometry, planes, colours, CAMG):
+   320x200      8 planes, 256 colours, $00011000 plain              x70
+   0x0          0 planes,   0 colours, -                            x2
+   320x200      8 planes, 256 colours, $00091000 plain              x1
+   320x256      5 planes,  32 colours, $00004000 plain              x1
+   320x200      6 planes,  16 colours, $00000800 HAM                x1
+   320x200      8 planes, 256 colours, -                            x1
+file               size   wxh      bp compress  colours     body  CAMG
+BASE.PIX          50989   320x200  8 ByteRun1     256    49906  $00011000 plain
+      ! FORM declares 50988 bytes, file is 50989
+BASE.SCN           3031       0x0  0 ?-1            0        0  -
+      ! FORM declares 3456827400 bytes, file is 3031
+BASE_AN.PIX       45315   320x200  8 ByteRun1     256    44232  $00011000 plain
+      ! FORM declares 45314 bytes, file is 45315
+BASE_AN1.PIX      36827   320x200  8 ByteRun1     256    35743  $00011000 plain
+      ! FORM declares 36826 bytes, file is 36827
+BASE_AN2.PIX      37545   320x200  8 ByteRun1     256    36461  $00011000 plain
+      ! FORM declares 37544 bytes, file is 37545
+BINOCBOT.BBM        869    320x13  4 ByteRun1      16      764  -
+      ! FORM declares 868 bytes, file is 869
+BINOCTOP.BBM        887    320x13  4 ByteRun1      16      781  -
+      ! FORM declares 886 bytes, file is 887
+BOTAPA.LBM         8819   320x200  4 ByteRun1      16     8714  -
+      ! FORM declares 8818 bytes, file is 8819
+BOTBLK.LBM         8731   320x200  4 ByteRun1      16     8626  -
+      ! FORM declares 8730 bytes, file is 8731
+BOTCOB.LBM        11509   320x200  4 ByteRun1      16    11403  -
+      ! FORM declares 11508 bytes, file is 11509
+BOTCOM.LBM        10107   320x200  4 ByteRun1      16    10001  -
+      ! FORM declares 10106 bytes, file is 10107
+BOTDEF.LBM        10311   320x200  4 ByteRun1      16    10205  -
+      ! FORM declares 10310 bytes, file is 10311
+BOTKIA.LBM         9637   320x200  4 ByteRun1      16     9531  -
+      ! FORM declares 9636 bytes, file is 9637
+BPATCHES.PIX      57609   320x200  8 ByteRun1     256    56526  $00011000 plain
+      ! FORM declares 57608 bytes, file is 57609
+BRIEFING.SCN        280       0x0  0 ?-1            0        0  -
+      ! FORM declares 251723784 bytes, file is 280
+BUILD.SCN           313       0x0  0 ?-1            0        0  -
+      ! FORM declares 805371912 bytes, file is 313
+CD1.SCN             185       0x0  0 ?-1            0        0  -
+      ! FORM declares 2952790024 bytes, file is 185
+CD2.SCN             185       0x0  0 ?-1            0        0  -
+      ! FORM declares 2952790024 bytes, file is 185
+CD3.SCN             185       0x0  0 ?-1            0        0  -
+      ! FORM declares 2952790024 bytes, file is 185
+CENT_00.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+CENT_01.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+CENT_02.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+CENT_03.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+COMMAND2.PIX      32275   320x200  8 ByteRun1     256    31191  $00011000 plain
+      ! FORM declares 32274 bytes, file is 32275
+COMMANDR.PIX      35717   320x200  8 ByteRun1     256    34634  $00011000 plain
+      ! FORM declares 35716 bytes, file is 35717
+COMMISSN.PIX      41207   320x200  8 ByteRun1     256    40123  $00011000 plain
+      ! FORM declares 41206 bytes, file is 41207
+COMMISSN.SCN        138       0x0  0 ?-1            0        0  -
+      ! FORM declares 2164260872 bytes, file is 138
+COMM_AN.PIX       20881   320x200  8 ByteRun1     256    19798  $00011000 plain
+      ! FORM declares 20880 bytes, file is 20881
+CREWPRO.SCN         146       0x0  0 ?-1            0        0  -
+      ! FORM declares 2298478600 bytes, file is 146
+CROWNAPA.BBM       3577    320x36  4 ByteRun1      16     3472  -
+      ! FORM declares 3576 bytes, file is 3577
+CROWNBLK.BBM       2715    320x32  4 ByteRun1      16     2610  -
+      ! FORM declares 2714 bytes, file is 2715
+CROWNCOB.BBM        781    320x13  4 ByteRun1      16      675  -
+      ! FORM declares 780 bytes, file is 781
+CROWNCOM.BBM       1271    320x14  4 ByteRun1      16     1165  -
+      ! FORM declares 1270 bytes, file is 1271
+CROWNDEF.BBM       1445    320x18  4 ByteRun1      16     1340  -
+      ! FORM declares 1444 bytes, file is 1445
+CROWNKIA.BBM       1401    320x17  4 ByteRun1      16     1296  -
+      ! FORM declares 1400 bytes, file is 1401
+DIALAPA.BBM        6143    320x46  4 ByteRun1      16     6038  -
+      ! FORM declares 6142 bytes, file is 6143
+DIALBLK.BBM        6301    320x46  4 ByteRun1      16     5459  -
+      ! FORM declares 6300 bytes, file is 6301
+DIALCOB.BBM        7147    320x46  4 ByteRun1      16     6308  -
+      ! FORM declares 7146 bytes, file is 7147
+DIALCOM.BBM        6183    320x46  4 ByteRun1      16     5341  -
+      ! FORM declares 6182 bytes, file is 6183
+DIALDEF.BBM        6797    320x50  4 ByteRun1      16     5932  -
+      ! FORM declares 6796 bytes, file is 6797
+DIALKIA.BBM        7427    320x46  4 ByteRun1      16     6572  -
+      ! FORM declares 7426 bytes, file is 7427
+EURO6.WRL         16132       0x0  0 ?-1            0        0  -
+      ! FORM declares 4215144456 bytes, file is 16132
+EURO6MAP.PIX      23281   320x200  8 ByteRun1     256    22197  $00011000 plain
+      ! FORM declares 23280 bytes, file is 23281
+EURO7.WRL         16062       0x0  0 ?-1            0        0  -
+      ! FORM declares 3040739336 bytes, file is 16062
+EURO7MAP.PIX      22757   320x200  8 ByteRun1     256    21674  $00011000 plain
+      ! FORM declares 22756 bytes, file is 22757
+EURO8.WRL         15932       0x0  0 ?-1            0        0  -
+      ! FORM declares 859701256 bytes, file is 15932
+EURO8MAP.PIX      23241   320x200  8 ByteRun1     256    22157  $00011000 plain
+      ! FORM declares 23240 bytes, file is 23241
+EUROX.WRL         12662       0x0  0 ?-1            0        0  -
+      ! FORM declares 1831927816 bytes, file is 12662
+FIELD.PIX         46177   320x200  8 ByteRun1     256    45093  $00011000 plain
+      ! FORM declares 46176 bytes, file is 46177
+FIELD.SCN           260       0x0  0 ?-1            0        0  -
+      ! FORM declares 4211081224 bytes, file is 260
+FIELD2.PIX        44109   320x200  8 ByteRun1     256    43026  $00011000 plain
+      ! FORM declares 44108 bytes, file is 44109
+FIELD2.SCN          216       0x0  0 ?-1            0        0  -
+      ! FORM declares 3472883720 bytes, file is 216
+FIELD_A2.PIX      18819   320x200  8 ByteRun1     256    17735  $00011000 plain
+      ! FORM declares 18818 bytes, file is 18819
+FIELD_AN.PIX      29873   320x200  8 ByteRun1     256    28790  $00011000 plain
+      ! FORM declares 29872 bytes, file is 29873
+GULF3.WRL         17736       0x0  0 ?-1            0        0  -
+      ! FORM declares 1061486600 bytes, file is 17736
+GULF3MAP.PIX      21205   320x200  8 ByteRun1     256    20122  $00011000 plain
+      ! FORM declares 21204 bytes, file is 21205
+GULF4.WRL         18096       0x0  0 ?-1            0        0  -
+      ! FORM declares 2806382600 bytes, file is 18096
+GULF4MAP.PIX      20729   320x200  8 ByteRun1     256    19645  $00011000 plain
+      ! FORM declares 20728 bytes, file is 20729
+GULF5.WRL         17536       0x0  0 ?-1            0        0  -
+      ! FORM declares 2000945160 bytes, file is 17536
+GULF5MAP.PIX      21937   320x200  8 ByteRun1     256    20854  $00011000 plain
+      ! FORM declares 21936 bytes, file is 21937
+GULF6.WRL         17096       0x0  0 ?-1            0        0  -
+      ! FORM declares 3208773640 bytes, file is 17096
+GULFX.WRL         13336       0x0  0 ?-1            0        0  -
+      ! FORM declares 255066120 bytes, file is 13336
+HANDS.PIX         17289   320x200  8 ByteRun1     256    16206  $00011000 plain
+      ! FORM declares 17288 bytes, file is 17289
+HAPPY.PIX         46805   320x200  8 ByteRun1     256    45722  $00011000 plain
+      ! FORM declares 46804 bytes, file is 46805
+HAPPY.SCN           120       0x0  0 ?-1            0        0  -
+      ! FORM declares 1862270984 bytes, file is 120
+HAPPY_AN.PIX      14227   320x200  8 ByteRun1     256    13144  $00011000 plain
+      ! FORM declares 14226 bytes, file is 14227
+JUMP.PIX          45137   320x200  8 ByteRun1     256    44053  $00011000 plain
+      ! FORM declares 45136 bytes, file is 45137
+JUMP.SCN            319       0x0  0 ?-1            0        0  -
+      ! FORM declares 906035208 bytes, file is 319
+JUMPCMOH.PIX      45811   320x200  8 ByteRun1     256    44728  $00011000 plain
+      ! FORM declares 45810 bytes, file is 45811
+KIA.PIX           34221   320x200  8 ByteRun1     256    33138  $00011000 plain
+      ! FORM declares 34220 bytes, file is 34221
+KIA.SCN             117       0x0  0 ?-1            0        0  -
+      ! FORM declares 1811939336 bytes, file is 117
+KIA_AN.PIX        23085   320x200  8 ByteRun1     256    22002  $00011000 plain
+      ! FORM declares 23084 bytes, file is 23085
+LOSE.PIX          46237   320x200  8 ByteRun1     256    45154  $00011000 plain
+      ! FORM declares 46236 bytes, file is 46237
+LOSE.SCN             80       0x0  0 ?-1            0        0  -
+      ! FORM declares 1191182344 bytes, file is 80
+MEDAL.PIX         21651   320x200  8 ByteRun1     256    20567  $00011000 plain
+      ! FORM declares 21650 bytes, file is 21651
+MEMO.PIX          18987   320x200  8 ByteRun1     256    17904  $00011000 plain
+      ! FORM declares 18986 bytes, file is 18987
+MEMO.SCN             80       0x0  0 ?-1            0        0  -
+      ! FORM declares 1191182344 bytes, file is 80
+MENU0021.PIX      31169   320x200  8 ByteRun1     256    30085  $00011000 plain
+      ! FORM declares 31168 bytes, file is 31169
+MENU3037.PIX      19567   320x200  8 ByteRun1     256    18484  $00011000 plain
+      ! FORM declares 19566 bytes, file is 19567
+MENU5057.PIX      15747   320x200  8 ByteRun1     256    14663  $00011000 plain
+      ! FORM declares 15746 bytes, file is 15747
+MENU8085.PIX       9119   320x200  8 ByteRun1     256     8035  $00011000 plain
+      ! FORM declares 9118 bytes, file is 9119
+ORDNANCE.SCN        257       0x0  0 ?-1            0        0  -
+      ! FORM declares 4160749576 bytes, file is 257
+OUTFIT.SCN          233       0x0  0 ?-1            0        0  -
+      ! FORM declares 3758096392 bytes, file is 233
+PAGE.PIX          20799   320x200  8 ByteRun1     256    19715  $00011000 plain
+      ! FORM declares 20798 bytes, file is 20799
+PAGE2.PIX         19911   320x200  8 ByteRun1     256    18827  $00011000 plain
+      ! FORM declares 19910 bytes, file is 19911
+PATCHES.PIX       48947   320x200  8 ByteRun1     256    47863  $00011000 plain
+      ! FORM declares 48946 bytes, file is 48947
+PERS_00.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+PERS_01.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+PERS_02.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+PERS_03.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+PERS_04.SNR          32       0x0  0 ?-1            0        0  -
+      ! FORM declares 385875976 bytes, file is 32
+PILOT.PIX         50859   320x200  8 ByteRun1     256    49775  $00011000 plain
+      ! FORM declares 50858 bytes, file is 50859
+PILOT.PIX         52321   320x200  8 ByteRun1     256    51237  $00011000 plain
+      ! FORM declares 52320 bytes, file is 52321
+POINTER.PIX        5915   320x200  8 ByteRun1     256     4831  $00011000 plain
+      ! FORM declares 5914 bytes, file is 5915
+RANKS.PIX         41191   320x200  8 ByteRun1     256    40108  $00011000 plain
+      ! FORM declares 41190 bytes, file is 41191
+REALITY.PIX       38897   320x200  8 ByteRun1     256    37813  $00011000 plain
+      ! FORM declares 38896 bytes, file is 38897
+REALITY.SCN        1774       0x0  0 ?-1            0        0  -
+      ! FORM declares 3842375688 bytes, file is 1774
+REALI_AN.PIX      24005   320x200  8 ByteRun1     256    22922  $00011000 plain
+      ! FORM declares 24004 bytes, file is 24005
+REAL_PCH.PIX      21341   320x200  8 ByteRun1     256    20257  $00011000 plain
+      ! FORM declares 21340 bytes, file is 21341
+REPLACE.SCN         119       0x0  0 ?-1            0        0  -
+      ! FORM declares 1845493768 bytes, file is 119
+REPLAY.PIX        21569   320x200  8 ByteRun1     256    20486  $00011000 plain
+      ! FORM declares 21568 bytes, file is 21569
+REPLAY.SCN          506       0x0  0 ?-1            0        0  -
+      ! FORM declares 4043374600 bytes, file is 506
+RESCUE.PIX        28329   320x200  8 ByteRun1     256    27246  $00011000 plain
+      ! FORM declares 28328 bytes, file is 28329
+RESCUE.SCN         4787       0x0  0 ?-1            0        0  -
+      ! FORM declares 2853306376 bytes, file is 4787
+RESC_AN.PIX       28515   320x200  8 ByteRun1     256    27432  $00011000 plain
+      ! FORM declares 28514 bytes, file is 28515
+RESC_AN1.PIX      13863   320x200  8 ByteRun1     256    12907  $00011000 plain
+      ! FORM declares 13862 bytes, file is 13863
+ROSTER.PIX        25207   320x200  8 ByteRun1     256    24124  $00011000 plain
+      ! FORM declares 25206 bytes, file is 25207
+ROSTER.SCN          493       0x0  0 ?-1            0        0  -
+      ! FORM declares 3825270792 bytes, file is 493
+SAD.PIX           39397   320x200  8 ByteRun1     256    38314  $00011000 plain
+      ! FORM declares 39396 bytes, file is 39397
+SAD.SCN             120       0x0  0 ?-1            0        0  -
+      ! FORM declares 1862270984 bytes, file is 120
+SAD_2.PIX         40939   320x200  8 ByteRun1     256    39855  $00011000 plain
+      ! FORM declares 40938 bytes, file is 40939
+SAD_AN.PIX         8033   320x200  8 ByteRun1     256     6950  $00011000 plain
+      ! FORM declares 8032 bytes, file is 8033
+SCENE_00.THR         77       0x0  0 ?-1            0        0  -
+      ! FORM declares 1140850696 bytes, file is 77
+SCENE_01.THR         77       0x0  0 ?-1            0        0  -
+      ! FORM declares 1140850696 bytes, file is 77
+SHIN_00.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_01.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_02.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_03.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_04.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_05.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_06.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIN_07.SHI         273       0x0  0 ?-1            0        0  -
+      ! FORM declares 134283272 bytes, file is 273
+SHIP.PIX          31595   320x200  8 ByteRun1     256    30511  $00011000 plain
+      ! FORM declares 31594 bytes, file is 31595
+SHIP_00.PIX       38265   320x200  8 ByteRun1     256    37309  $00011000 plain
+      ! FORM declares 38264 bytes, file is 38265
+SHIP_00.SHP        3725       0x0  0 ?-1            0        0  -
+      ! FORM declares 2215510024 bytes, file is 3725
+SHIP_01.PIX       38223   320x200  8 ByteRun1     256    37268  $00011000 plain
+      ! FORM declares 38222 bytes, file is 38223
+SHIP_01.SHP        3703       0x0  0 ?-1            0        0  -
+      ! FORM declares 1846411272 bytes, file is 3703
+SHIP_02.PIX       23583   320x200  8 ByteRun1     256    22500  $00011000 plain
+      ! FORM declares 23582 bytes, file is 23583
+SHIP_02.SHP        1745       0x0  0 ?-1            0        0  -
+      ! FORM declares 3355836424 bytes, file is 1745
+SHIP_03.PIX       25663   320x200  8 ByteRun1     256    24580  $00011000 plain
+      ! FORM declares 25662 bytes, file is 25663
+SHIP_03.SHP        1145       0x0  0 ?-1            0        0  -
+      ! FORM declares 1879310344 bytes, file is 1145
+SHIP_04.PIX       25109   320x200  8 ByteRun1     256    24026  $00011000 plain
+      ! FORM declares 25108 bytes, file is 25109
+SHIP_04.SHP        1313       0x0  0 ?-1            0        0  -
+      ! FORM declares 402980872 bytes, file is 1313
+SHIP_05.PIX       30177   320x200  8 ByteRun1     256    29093  $00011000 plain
+      ! FORM declares 30176 bytes, file is 30177
+SHIP_05.SHP        2145       0x0  0 ?-1            0        0  -
+      ! FORM declares 1476919304 bytes, file is 2145
+SHIP_06.PIX       24267   320x200  8 ByteRun1     256    23183  $00011000 plain
+      ! FORM declares 24266 bytes, file is 24267
+SHIP_06.SHP        1551       0x0  0 ?-1            0        0  -
+      ! FORM declares 101056520 bytes, file is 1551
+SHIP_07.PIX       17391   320x200  8 ByteRun1     256    16307  $00011000 plain
+      ! FORM declares 17390 bytes, file is 17391
+SHIP_07.SHP         613       0x0  0 ?-1            0        0  -
+      ! FORM declares 1543634952 bytes, file is 613
+STRUTAPA.BBM       6737   320x130  4 ByteRun1      16     6631  -
+      ! FORM declares 6736 bytes, file is 6737
+STRUTBLK.BBM       2801    320x92  4 ByteRun1      16     2696  -
+      ! FORM declares 2800 bytes, file is 2801
+STRUTCOB.BBM       5189   320x103  4 ByteRun1      16     5084  -
+      ! FORM declares 5188 bytes, file is 5189
+STRUTCOM.BBM       4881   320x101  4 ByteRun1      16     4776  -
+      ! FORM declares 4880 bytes, file is 4881
+STRUTDEF.BBM       2723    320x95  4 ByteRun1      16     2618  -
+      ! FORM declares 2722 bytes, file is 2723
+STRUTKIA.BBM       2945   320x102  4 ByteRun1      16     2839  -
+      ! FORM declares 2944 bytes, file is 2945
+TARMC_00.PIX      19173   320x200  8 ByteRun1     256    18089  $00011000 plain
+      ! FORM declares 19172 bytes, file is 19173
+TARMC_01.PIX      16813   320x200  8 ByteRun1     256    15730  $00011000 plain
+      ! FORM declares 16812 bytes, file is 16813
+TARMC_02.PIX      17005   320x200  8 ByteRun1     256    15921  $00011000 plain
+      ! FORM declares 17004 bytes, file is 17005
+TENT.PIX          54751   320x200  8 ByteRun1     256    53668  $00011000 plain
+      ! FORM declares 54750 bytes, file is 54751
+THEATER.PIX       50007   320x200  8 ByteRun1     256    48924  $00011000 plain
+      ! FORM declares 50006 bytes, file is 50007
+THEATER.SCN          80       0x0  0 ?-1            0        0  -
+      ! FORM declares 1191182344 bytes, file is 80
+WEAP_00.WPN        4941       0x0  0 ?-1            0        0  -
+      ! FORM declares 1142095880 bytes, file is 4941
+WIN.PIX           55525   320x200  8 ByteRun1     256    54442  $00011000 plain
+      ! FORM declares 55524 bytes, file is 55525
+WIN.SCN              80       0x0  0 ?-1            0        0  -
+      ! FORM declares 1191182344 bytes, file is 80
+cd1.pix           31301   320x200  8 ByteRun1     256    27938  -
+      ! FORM declares 31300 bytes, file is 31301
+cd2.pix           30787   320x200  8 ByteRun1     256    27456  -
+      ! FORM declares 30786 bytes, file is 30787
+cd3.pix           31067   320x200  8 ByteRun1     256    27707  -
+      ! FORM declares 31066 bytes, file is 31067
+sprites.lbm        9377   320x200  4 ByteRun1      16     9272  -
+      ! FORM declares 9376 bytes, file is 9377
+
+158 IFF files.  distinct (geometry, planes, colours, CAMG):
+   320x200      8 planes, 256 colours, $00011000 plain              x66
+   0x0          0 planes,   0 colours, -                            x62
+   320x200      4 planes,  16 colours, -                            x7
+   320x46       4 planes,  16 colours, -                            x5
+   320x13       4 planes,  16 colours, -                            x3
+   320x200      8 planes, 256 colours, -                            x3
+   320x36       4 planes,  16 colours, -                            x1
+   320x32       4 planes,  16 colours, -                            x1
+   320x14       4 planes,  16 colours, -                            x1
+   320x18       4 planes,  16 colours, -                            x1
+   320x17       4 planes,  16 colours, -                            x1
+   320x50       4 planes,  16 colours, -                            x1
+   320x130      4 planes,  16 colours, -                            x1
+   320x92       4 planes,  16 colours, -                            x1
+   320x103      4 planes,  16 colours, -                            x1
+   320x101      4 planes,  16 colours, -                            x1
+   320x95       4 planes,  16 colours, -                            x1
+   320x102      4 planes,  16 colours, -                            x1

@@ -1,0 +1,9 @@
+=== cd32rez (641768 bytes) ===
+  depth 0:  526 streams,    616483 packed ->   1423566 unpacked
+  gaps   :  270, 25285 bytes (241 all-zero, 241 bytes)
+=== pirates (383568 bytes) ===
+  depth 0:    8 streams,     61064 packed ->    198912 unpacked
+  gaps   :    9, 322504 bytes (0 all-zero, 0 bytes)
+=== pirates_german (383724 bytes) ===
+  depth 0:    8 streams,     61064 packed ->    198912 unpacked
+  gaps   :    9, 322660 bytes (0 all-zero, 0 bytes)

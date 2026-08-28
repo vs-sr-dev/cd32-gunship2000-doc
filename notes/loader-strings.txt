@@ -1,0 +1,35 @@
+0x00000719 ."_p,N
+0x00000969 gs_dsk1
+0x00000972 gs_dsk2
+0x0000097b gs_dsk3
+0x00000984 gs_dsk4
+0x00000993 gs_dsk1:fonts
+0x00000a62 topaz.font
+0x00000a6d dos.library
+0x00000a79 intuition.library
+0x00000a8b graphics.library
+0x00000a9c gs_dsk1:gs
+0x00000aa7 gs_dsk1:gs2.run
+0x00000ab7 Install Gunship 2000
+0x00000acc Welcome to Gunship 2000 !
+0x00000ae6 Gunship 2000     V3.32 - 15/4/1994
+0x00000b0f Cancel
+0x00000b16 Cannot close the Workbench!
+0x00000b32 Please close all applications,
+0x00000b51 screens, windows and CLIs.
+0x00000b6f Could not assign volumes !
+0x00000b8d DPress left mouse button.
+0x00000bab Could not assign FONTS: !
+0x00000bc8 DPress left mouse button.
+0x00000be7 Could not allocate signal !
+0x00000c06 DPress left mouse button.
+0x00000c25 Could not open screen !
+0x00000c40 DPress left mouse button.
+0x00000c5f There is not enough free memory to run Gunship 2000 !
+0x00000c98 DPress left mouse button.
+0x00000cb7 Error while loading flight code !
+0x00000cdd Error # :    
+0x00000cee DPress left mouse button.
+0x00000d0d Error while loading frontend !
+0x00000d30 Error # :    
+0x00000d41 DPress left mouse button.

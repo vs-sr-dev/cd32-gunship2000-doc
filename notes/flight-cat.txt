@@ -1,0 +1,41 @@
+=== flight.cat : 585453 bytes ===
+entries 33, table 2..794, first payload offset 794 (table end matches)
+
+#    name                length    offset ext       sha1
+0    EURO6DAT.BIN         79529       794 BIN       e5fe01ed115c3787
+1    EURO7DAT.BIN         77707     80323 BIN       4e3fb8a7cbe9e3cf
+2    EURO8DAT.BIN         79683    158030 BIN       880497436c76aa62
+3    GULF3DAT.BIN         62499    237713 BIN       126f42cb783912e4
+4    GULF4DAT.BIN         71053    300212 BIN       3d8d44118adabe7f
+5    GULF5DAT.BIN         67477    371265 BIN       5745ce503f1545c9
+6    BINOCBOT.BBM           869    438742 BBM       ec2de22794a15172
+7    BINOCTOP.BBM           887    439611 BBM       05cd47bd425db8eb
+8    CROWNAPA.BBM          3577    440498 BBM       4c41c41e63ed5016
+9    DIALAPA.BBM           6143    444075 BBM       f9d0ccf614d91288
+10   STRUTAPA.BBM          6737    450218 BBM       5b69399f0d3c7706
+11   BOTAPA.LBM            8819    456955 LBM       ec2af535572db213
+12   CROWNKIA.BBM          1401    465774 BBM       acba9732617fe0d5
+13   DIALKIA.BBM           7427    467175 BBM       cf5a81eb41bcd408
+14   STRUTKIA.BBM          2945    474602 BBM       3e45a95c630c2436
+15   BOTKIA.LBM            9637    477547 LBM       fe88cfef97963cf4
+16   CROWNDEF.BBM          1445    487184 BBM       0ee89d09b3005865
+17   DIALDEF.BBM           6797    488629 BBM       b82a2e2f326c1aeb
+18   STRUTDEF.BBM          2723    495426 BBM       9167b9e0711812b9
+19   BOTDEF.LBM           10311    498149 LBM       0993f58126c9072c
+20   CROWNCOB.BBM           781    508460 BBM       cb45f83bb6107e3e
+21   DIALCOB.BBM           7147    509241 BBM       48f6c7f58f899f56
+22   STRUTCOB.BBM          5189    516388 BBM       60ad1092d7fdc829
+23   BOTCOB.LBM           11509    521577 LBM       94630878994a0c7f
+24   CROWNBLK.BBM          2715    533086 BBM       a7bb0c09981ab89b
+25   DIALBLK.BBM           6301    535801 BBM       3adda21e323989c9
+26   STRUTBLK.BBM          2801    542102 BBM       76926b1b6a2eb86f
+27   BOTBLK.LBM            8731    544903 LBM       7c5058fae03a0c6b
+28   CROWNCOM.BBM          1271    553634 BBM       ab0877047e576315
+29   DIALCOM.BBM           6183    554905 BBM       93137e3ad3550413
+30   STRUTCOM.BBM          4881    561088 BBM       1a2debee62e489a1
+31   BOTCOM.LBM           10107    565969 LBM       e36cdccbe267ddf5
+32   sprites.lbm           9377    576076 LBM       f95b41175a021980
+
+payload 584659 bytes, entries cover 584659 (100.0%), table 794, trailing 0
+gaps between entries: 0 (0 bytes)
+extensions: BBM x20, LBM x7, BIN x6
