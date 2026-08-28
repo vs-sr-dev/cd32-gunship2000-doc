@@ -53,8 +53,11 @@ directory record order, `;1` suffixes, root extent.
 only two Pocock masters with a `c/`, suggesting a build kit shared across
 studios. Two independent refutations on this disc:
 
-* **Dragonstone carries the same pair, byte-identical**, and Dragonstone's
-  preparer is `Sajjad Majid`. The pair crosses the Pocock boundary.
+* **Dragonstone carries the same pair, byte-identical**, and its preparer is
+  `Sajjad Majid`. **Gloom carries the same `FreeAnim`** — 3,492 bytes, SHA-1
+  `449c610071ace58d…`, sitting in its root as `/freeanim` — and Gloom's
+  preparer name is **empty**. Four discs hold that binary under **three
+  different preparer values**.
 * **Gunship 2000, the fifth Pocock master, has a `c/` and neither file is in
   it.**
 
